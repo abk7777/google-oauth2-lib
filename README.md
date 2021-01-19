@@ -59,7 +59,7 @@ The OAuth flow will create a `token.pickle` file containing the valid credential
 [stars-url]: https://github.com/abk7777/google-oauth2-lib/stargazers
 [issues-shield]: https://img.shields.io/github/issues/abk7777/google-oauth2-lib.svg?style=flat-square
 [issues-url]: https://github.com/abk7777/google-oauth2-lib/issues
-[license-shield]: https://img.shields.io/github/license/abk7777/google-oauth2-lib.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/abk7777/google-oauth2-lib.svg?style=flat-squae
 [license-url]: https://github.com/abk7777/google-oauth2-lib/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/gregory-lindsey/
