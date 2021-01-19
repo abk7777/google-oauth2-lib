@@ -4,17 +4,17 @@
 
 # google-oauth2-lib
 
-Python OAuth flow for Google Workspace API.
+Examples of Python OAuth 2.0 flow for Google Workspace API.
 
 -- Project Status: [Complete]
 
 ## Getting Started
 
 ### Prerequisites
-1. Follow the steps to create OAuth2 authorization credentials for Google API for Mobile & Desktop Apps:
+1. Follow the steps to create OAuth 2.0 authorization credentials for Google API for Mobile & Desktop Apps:
    - [Enable the API](https://developers.google.com/identity/protocols/oauth2/native-app#enable-apis)
    - [Create authorization credentials](https://developers.google.com/identity/protocols/oauth2/native-app#creatingcred)
-2. Download the OAuth2.0 `client_secret.json` file (available in Google Cloud Platform under APIs & Services --> Credentials) and store in project root.
+2. Download the OAuth 2.0 `client_secret.json` file (available in Google Cloud Platform under APIs & Services --> Credentials) and store in project root.
 
 ### Setup
 (*MacOS/Linux*)
