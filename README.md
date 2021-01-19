@@ -1,6 +1,6 @@
-<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url] -->
+[![Issues][issues-shield]][issues-url]
 
 # google-oauth2-lib
 
@@ -48,9 +48,9 @@ The OAuth flow will create a `token.pickle` file containing the valid credential
 
 - **Primary (Contact) : [Gregory Lindsey](https://github.com/abk7777)**
 
-<!-- [contributors-shield]: https://img.shields.io/github/contributors/abk7777/google-oauth2-lib.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/abk7777/google-oauth2-lib.svg?style=flat-square
 [contributors-url]: https://github.com/abk7777/google-oauth2-lib/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/abk7777/google-oauth2-lib.svg?style=flat-square
 [forks-url]: https://github.com/abk7777/google-oauth2-lib/network/members
 [issues-shield]: https://img.shields.io/github/issues/abk7777/google-oauth2-lib.svg?style=flat-square
-[issues-url]: https://github.com/abk7777/google-oauth2-lib/issues -->
+[issues-url]: https://github.com/abk7777/google-oauth2-lib/issues
