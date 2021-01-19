@@ -1,6 +1,9 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 # google-oauth2-lib
 
@@ -52,5 +55,11 @@ The OAuth flow will create a `token.pickle` file containing the valid credential
 [contributors-url]: https://github.com/abk7777/google-oauth2-lib/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/abk7777/google-oauth2-lib.svg?style=flat-square
 [forks-url]: https://github.com/abk7777/google-oauth2-lib/network/members
+[stars-shield]: https://img.shields.io/github/stars/abk7777/google-oauth2-lib.svg?style=flat-square
+[stars-url]: https://github.com/abk7777/google-oauth2-lib/stargazers
 [issues-shield]: https://img.shields.io/github/issues/abk7777/google-oauth2-lib.svg?style=flat-square
 [issues-url]: https://github.com/abk7777/google-oauth2-lib/issues
+[license-shield]: https://img.shields.io/github/license/abk7777/google-oauth2-lib.svg?style=flat-square
+[license-url]: https://github.com/abk7777/google-oauth2-lib/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/gregory-lindsey/
